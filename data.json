@@ -1,0 +1,480 @@
+{
+ "updated": "2026-10-21",
+ "courses": {
+  "etyka": {
+   "link": "https://moodle2.e-wsb.pl/course/view.php?id=242156",
+   "note": "",
+   "tasks": [
+    {
+     "d": "",
+     "done": false,
+     "src": "moodle:13349679",
+     "t": "Praca zaliczeniowa"
+    }
+   ]
+  },
+  "komint": {
+   "link": "https://moodle2.e-wsb.pl/course/view.php?id=248206",
+   "note": "",
+   "tasks": [
+    {
+     "d": "",
+     "done": false,
+     "src": "moodle:13562006",
+     "t": "Praca zaliczeniowa"
+    }
+   ]
+  },
+  "kompetencje": {
+   "link": "https://moodle2.e-wsb.pl/course/view.php?id=242198",
+   "note": "Zaliczenie: CV albo wpis na LinkedIn o swoich kompetencjach (80 pkt) + aktywność na zajęciach (20 pkt). Obecność sprawdzana na każdych zajęciach.\nOceniane: zgodność z zadaniem, konkretne przykłady, własna refleksja, czytelność.\nSkala: 51% = 3,0 · 61% = 3,5 · 71% = 4,0 · 81% = 4,5 · 91% = 5,0.\nOddane: CV.pdf (19.10), czeka na ocenę.",
+   "tasks": [
+    {
+     "d": "",
+     "done": true,
+     "src": "moodle:13350743",
+     "t": "Praca zaliczeniowa"
+    }
+   ]
+  },
+  "prawo": {
+   "link": "https://moodle2.e-wsb.pl/course/view.php?id=242329",
+   "note": "",
+   "tasks": [
+    {
+     "d": "",
+     "done": false,
+     "src": "moodle:13356837",
+     "t": "Praca zaliczeniowa"
+    }
+   ]
+  },
+  "projektowa": {
+   "link": "https://moodle2.e-wsb.pl/course/view.php?id=248152",
+   "note": "",
+   "tasks": [
+    {
+     "d": "",
+     "done": false,
+     "src": "moodle:13559940",
+     "t": "Praca zaliczeniowa"
+    }
+   ]
+  },
+  "projsem": {
+   "link": "https://moodle2.e-wsb.pl/course/view.php?id=248239",
+   "note": "",
+   "tasks": [
+    {
+     "d": "",
+     "done": false,
+     "src": "moodle:13563872",
+     "t": "Praca zaliczeniowa"
+    }
+   ]
+  },
+  "przeds": {
+   "link": "https://moodle2.e-wsb.pl/course/view.php?id=248257",
+   "note": "Zaliczenie: projekt zespołowy prezentowany przed grupą, maks. 100 pkt, próg 51 pkt.\nPunkty: spójność i struktura 20 · innowacyjność 20 · współpraca 20 · prezentacja 20 · dobór źródeł 10 · ocena 180° 10.\nTematy: pomysł na biznes (model Canvas), aktywność dla studentów lub aktywność wspólna z uczelnią.\nLiteratura: Tracy „Przedsiębiorczość”, Osterwalder i Pigneur „Tworzenie modeli biznesowych”.",
+   "tasks": [
+    {
+     "d": "",
+     "done": false,
+     "src": "moodle:13564239",
+     "t": "Praca zaliczeniowa"
+    },
+    {
+     "d": "",
+     "done": false,
+     "t": "Kurs e-learningowy „Współpraca w zespole” (zalecany jak najszybciej)"
+    }
+   ]
+  },
+  "psych-c": {
+   "link": "https://moodle2.e-wsb.pl/course/view.php?id=248261",
+   "note": "Zaliczenie ćwiczeń: analiza przypadków 40 pkt · zadanie praktyczne 40 pkt · dyskusja 20 pkt.\nSkala: 51% = 3,0 · 61% = 3,5 · 71% = 4,0 · 81% = 4,5 · 91% = 5,0.",
+   "tasks": [
+    {
+     "d": "",
+     "done": false,
+     "src": "moodle:13564323",
+     "t": "Praca zaliczeniowa"
+    }
+   ]
+  },
+  "psych-w": {
+   "link": "https://moodle2.e-wsb.pl/course/view.php?id=248260",
+   "note": "Zaliczenie: egzamin pisemny, max 100 pkt.\nSkala: 51% = 3,0 · 61% = 3,5 · 71% = 4,0 · 81% = 4,5 · 91% = 5,0.\nLiteratura: strona „Literatura” w kursie (Cialdini, NeuroScienceOf, Psychology & Marketing).",
+   "tasks": [
+    {
+     "d": "",
+     "done": false,
+     "src": "moodle:13564302",
+     "t": "Praca zaliczeniowa"
+    }
+   ]
+  },
+  "wsb-c": {
+   "link": "https://moodle2.e-wsb.pl/course/view.php?id=248283",
+   "note": "",
+   "tasks": [
+    {
+     "d": "",
+     "done": false,
+     "src": "moodle:13564865",
+     "t": "Praca zaliczeniowa"
+    }
+   ]
+  },
+  "wsb-w": {
+   "link": "https://moodle2.e-wsb.pl/course/view.php?id=248274",
+   "note": "",
+   "tasks": [
+    {
+     "d": "",
+     "done": false,
+     "src": "moodle:13564660",
+     "t": "Praca zaliczeniowa"
+    }
+   ]
+  }
+ },
+ "plan": {
+  "2026-10-21": {
+   "items": [
+    {
+     "course": "psych-w",
+     "done": false,
+     "min": 10,
+     "t": "Rzuć okiem na fiszki z Psychologii (pierwsze 5)"
+    }
+   ]
+  },
+  "2026-10-22": {
+   "items": [
+    {
+     "course": "psych-w",
+     "done": false,
+     "min": 20,
+     "t": "Fiszki z Psychologii: karty 1–8"
+    },
+    {
+     "course": "przeds",
+     "done": false,
+     "min": 30,
+     "t": "Kurs e-learningowy „Współpraca w zespole” – część 1"
+    }
+   ]
+  },
+  "2026-10-23": {
+   "items": [
+    {
+     "course": "psych-w",
+     "done": false,
+     "min": 20,
+     "t": "Fiszki z Psychologii: karty 9–15"
+    },
+    {
+     "course": "psych-w",
+     "done": false,
+     "min": 40,
+     "t": "Obejrzyj rozmowę z Cialdinim o wywieraniu wpływu (lektura obowiązkowa)"
+    }
+   ]
+  },
+  "2026-10-24": {
+   "items": [
+    {
+     "course": "przeds",
+     "done": false,
+     "min": 30,
+     "t": "Kurs e-learningowy „Współpraca w zespole” – dokończ"
+    },
+    {
+     "course": "przeds",
+     "done": false,
+     "min": 25,
+     "t": "Burza mózgów: 3 pomysły na projekt zespołowy"
+    }
+   ]
+  },
+  "2026-10-25": {
+   "items": [
+    {
+     "course": "psych-w",
+     "done": false,
+     "min": 20,
+     "t": "Powtórka wszystkich fiszek z Psychologii"
+    },
+    {
+     "course": "",
+     "done": false,
+     "min": 10,
+     "t": "Przejrzyj stronę i zaplanuj następny tydzień"
+    }
+   ]
+  },
+  "2026-10-26": {
+   "items": [
+    {
+     "course": "psych-w",
+     "done": false,
+     "min": 30,
+     "t": "Przeczytaj „What is Marketing Psychology?” (NeuroScienceOf)"
+    },
+    {
+     "course": "przeds",
+     "done": false,
+     "min": 10,
+     "t": "Fiszki z Przedsiębiorczości"
+    }
+   ]
+  },
+  "2026-10-27": {
+   "items": [
+    {
+     "course": "psych-w",
+     "done": false,
+     "min": 30,
+     "t": "Przeczytaj „What is Consumer Psychology?” (NeuroScienceOf)"
+    },
+    {
+     "course": "",
+     "done": false,
+     "min": 5,
+     "t": "Zapytaj prowadzących o terminy prac zaliczeniowych"
+    }
+   ]
+  },
+  "2026-10-28": {
+   "items": [
+    {
+     "course": "psych-w",
+     "done": false,
+     "min": 15,
+     "t": "Fiszki z Psychologii – tylko te, których jeszcze nie umiesz"
+    },
+    {
+     "course": "przeds",
+     "done": false,
+     "min": 30,
+     "t": "Rozpisz najlepszy pomysł na projekt w 9 polach Canvas"
+    }
+   ]
+  }
+ },
+ "cards": {
+  "przeds": {
+   "cards": [
+    {
+     "a": "Projekt zespołowy prezentowany przed grupą, maks. 100 pkt. Próg zaliczenia: 51 pkt.",
+     "opts": [
+      "Projekt zespołowy przed grupą, maks. 100 pkt, próg 51",
+      "Egzamin pisemny na 100 pkt",
+      "Indywidualny esej na 50 pkt"
+     ],
+     "q": "Jak zaliczyć Przedsiębiorczość i współpracę w zespole?"
+    },
+    {
+     "a": "Spójność i struktura 20, innowacyjność 20, współpraca 20, prezentacja 20, dobór źródeł 10, ocena 180 stopni 10.",
+     "opts": [
+      "Po 20 za spójność, innowacyjność, współpracę i prezentację; po 10 za źródła i ocenę 180°",
+      "Wszystkie 100 pkt za prezentację",
+      "50 pkt za źródła i 50 za prezentację"
+     ],
+     "q": "Za co są punkty w projekcie?",
+     "qq": "Jak rozkładają się punkty w projekcie?"
+    },
+    {
+     "a": "Pomysł na biznes w modelu Canvas, aktywność dla studentów albo aktywność wspólna dla wykładowców, studentów i otoczenia uczelni.",
+     "opts": [
+      "Biznes w modelu Canvas, aktywność dla studentów lub wspólna z uczelnią",
+      "Wyłącznie biznesplan sklepu internetowego",
+      "Analiza wybranej korporacji"
+     ],
+     "q": "Jakie tematy projektu można wybrać?"
+    },
+    {
+     "a": "Segmenty klientów, propozycja wartości, kanały, relacje z klientami, strumienie przychodów, kluczowe zasoby, kluczowe działania, kluczowi partnerzy, struktura kosztów.",
+     "opts": [
+      "Analiza SWOT",
+      "Propozycja wartości",
+      "Struktura kosztów"
+     ],
+     "q": "Wymień 9 elementów Business Model Canvas.",
+     "qq": "Który element NIE należy do Business Model Canvas?"
+    },
+    {
+     "a": "Ocena przez osoby z tego samego poziomu, czyli członków zespołu, plus samoocena. Bez oceny przełożonych.",
+     "opts": [
+      "Ocena przez członków zespołu i samoocena",
+      "Ocena tylko przez prowadzącą",
+      "Ocena przez klientów firmy"
+     ],
+     "q": "Co to jest ocena 180 stopni?"
+    },
+    {
+     "a": "Przejść kurs e-learningowy „Współpraca w zespole” – to baza wiedzy do ćwiczeń.",
+     "opts": [
+      "Kurs e-learningowy „Współpraca w zespole”",
+      "Prezentację końcową projektu",
+      "Wybór lidera zespołu"
+     ],
+     "q": "Co prowadząca radzi zrobić jak najszybciej?"
+    }
+   ],
+   "course": "przeds",
+   "source": "Sylabus 2026/27",
+   "title": "Przedsiębiorczość: projekt"
+  },
+  "psych-w": {
+   "cards": [
+    {
+     "a": "Egzamin pisemny, maks. 100 pkt. Ocena 3,0 od 51%, 5,0 od 91%.",
+     "opts": [
+      "Egzamin pisemny, maks. 100 pkt, zaliczenie od 51%",
+      "Projekt zespołowy, zaliczenie od 60%",
+      "Kolokwium ustne, zaliczenie od 50%"
+     ],
+     "q": "Jak wygląda zaliczenie wykładu z Psychologii komunikacji i marketingu?"
+    },
+    {
+     "a": "Uproszczone wewnętrzne obrazy świata, przez które odbiorca filtruje komunikat. Ta sama reklama może być różnie odczytana w zależności od modelu odbiorcy.",
+     "opts": [
+      "Uproszczone obrazy świata, przez które odbiorca interpretuje komunikat",
+      "Schematy graficzne używane przy projektowaniu reklam",
+      "Modele statystyczne przewidujące sprzedaż"
+     ],
+     "q": "Czym są modele mentalne w komunikacji marketingowej?"
+    },
+    {
+     "a": "Gesty o ustalonym znaczeniu słownym, np. kciuk w górę czy znak OK. Ich znaczenie różni się między kulturami.",
+     "opts": [
+      "Gesty o ustalonym znaczeniu słownym, np. kciuk w górę",
+      "Logotypy marek widoczne w reklamie",
+      "Nieświadome mikroekspresje twarzy"
+     ],
+     "q": "Co to są emblematy w komunikacji niewerbalnej?"
+    },
+    {
+     "a": "Parafraza, odzwierciedlanie uczuć, pytania otwarte, podsumowanie, okazywanie uwagi mową ciała.",
+     "opts": [
+      "Parafraza, pytania otwarte, podsumowanie",
+      "Przerywanie, doradzanie, ocenianie",
+      "Milczenie i unikanie kontaktu wzrokowego"
+     ],
+     "q": "Wymień techniki aktywnego słuchania.",
+     "qq": "Które z nich to techniki aktywnego słuchania?"
+    },
+    {
+     "a": "Ekonomiczne zakładają racjonalnego konsumenta i mierzą efekt sprzedażowy. Psychologiczne opisują procesy w głowie odbiorcy: uwagę, emocje, pamięć i postawy.",
+     "opts": [
+      "Ekonomiczne zakładają racjonalnego konsumenta, psychologiczne opisują uwagę, emocje i pamięć",
+      "Ekonomiczne dotyczą tanich reklam, psychologiczne drogich",
+      "To dwie nazwy tego samego modelu"
+     ],
+     "q": "Czym różnią się ekonomiczne i psychologiczne modele reklamy?"
+    },
+    {
+     "a": "Attention, Interest, Desire, Action – uwaga, zainteresowanie, pożądanie, działanie. Klasyczny hierarchiczny model działania reklamy.",
+     "opts": [
+      "Uwaga, zainteresowanie, pożądanie, działanie",
+      "Analiza, interpretacja, decyzja, akceptacja",
+      "Atrakcyjność, innowacja, dostępność, aktywność"
+     ],
+     "q": "Co oznacza model AIDA?"
+    },
+    {
+     "a": "Osoby o różnych profilach poznawczych (np. ADHD, autyzm, dysleksja) inaczej przetwarzają bodźce: tempo, nadmiar bodźców, dosłowność języka. Kampania inkluzywna bierze to pod uwagę.",
+     "opts": [
+      "Różne profile poznawcze inaczej przetwarzają bodźce, więc kampania powinna to uwzględniać",
+      "Wpływa wyłącznie na reklamy radiowe",
+      "Nie ma żadnego wpływu na odbiór reklamy"
+     ],
+     "q": "Jak neuroróżnorodność wpływa na odbiór reklamy?"
+    },
+    {
+     "a": "Treści wywołujące emocje zapamiętujemy lepiej, bo pobudzenie wzmacnia utrwalanie w pamięci. Emocje wpływają też na ocenę marki.",
+     "opts": [
+      "Treści z emocjami zapamiętujemy lepiej",
+      "Emocje zawsze utrudniają zapamiętanie marki",
+      "Emocje działają tylko w reklamach dla dzieci"
+     ],
+     "q": "Jak emocje wpływają na zapamiętywanie reklamy?"
+    },
+    {
+     "a": "Projektowanie całego doświadczenia klienta we wszystkich punktach styku z marką. Psychologia pomaga zmniejszać wysiłek poznawczy i budować pozytywne emocje.",
+     "opts": [
+      "Projektowanie całego doświadczenia klienta we wszystkich punktach styku z marką",
+      "Projektowanie wyłącznie logo i kolorów marki",
+      "Nazwa działu obsługi reklamacji"
+     ],
+     "q": "Co to jest CX design?"
+    },
+    {
+     "a": "Przyciąga uwagę i poprawia nastrój, ale może przysłonić markę, zależy od kultury i grupy odbiorców. Lepiej sprawdza się przy produktach niskiego zaangażowania.",
+     "opts": [
+      "Przyciąga uwagę, ale może przysłonić markę i zależy od odbiorców",
+      "Zawsze zwiększa sprzedaż, niezależnie od produktu",
+      "Jest zakazany w reklamie w Polsce"
+     ],
+     "q": "Kiedy humor w reklamie działa, a kiedy szkodzi?"
+    },
+    {
+     "a": "Bezrefleksyjne: szybkie, automatyczne, oparte na nawykach i skrótach myślowych. Refleksyjne: świadoma analiza, typowa dla drogich i ważnych zakupów.",
+     "opts": [
+      "Bezrefleksyjne jest szybkie i nawykowe, refleksyjne – świadome i analityczne",
+      "Bezrefleksyjne dotyczy tylko zakupów online",
+      "Refleksyjne to zakupy pod wpływem silnych emocji"
+     ],
+     "q": "Kupowanie bezrefleksyjne a refleksyjne – różnica?"
+    },
+    {
+     "a": "Wzajemność, zaangażowanie i konsekwencja, społeczny dowód słuszności, sympatia, autorytet, niedostępność (w nowszym wydaniu też jedność).",
+     "opts": [
+      "Wzajemność, autorytet, niedostępność, społeczny dowód słuszności",
+      "Produkt, cena, promocja, dystrybucja",
+      "Uwaga, zainteresowanie, pożądanie, działanie"
+     ],
+     "q": "Wymień reguły wpływu Cialdiniego.",
+     "qq": "Które z nich to reguły wpływu Cialdiniego?"
+    },
+    {
+     "a": "Oddziaływanie na zmysły (zapach, muzyka, dotyk, światło, smak), żeby wpłynąć na emocje i zakupy. Przykład: zapach pieczywa w sklepie.",
+     "opts": [
+      "Wpływanie na zmysły klienta, np. zapach pieczywa w sklepie",
+      "Badanie zmysłów konsumentów w laboratorium",
+      "Reklama kierowana do osób niewidomych"
+     ],
+     "q": "Co to jest marketing sensoryczny?"
+    },
+    {
+     "a": "Ceny kończące się na 99, promocja „tylko dziś”, przekreślona wyższa cena jako kotwica, produkty na wysokości wzroku, zestawy.",
+     "opts": [
+      "Cena 9,99 zł i promocja „tylko dziś”",
+      "Paragon i karta gwarancyjna",
+      "Stałe ceny bez żadnych rabatów"
+     ],
+     "q": "Podaj przykłady pułapek zakupowych.",
+     "qq": "Który przykład to pułapka zakupowa?"
+    },
+    {
+     "a": "Te same wartości, komunikaty, identyfikacja wizualna i doświadczenia we wszystkich kanałach, tak by różni odbiorcy tworzyli ten sam obraz marki.",
+     "opts": [
+      "Te same wartości i komunikaty we wszystkich kanałach",
+      "Inny przekaz w każdym kanale, żeby zaskakiwać",
+      "Częsta zmiana logo, żeby marka była świeża"
+     ],
+     "q": "Jak budować spójny wizerunek marki?"
+    }
+   ],
+   "course": "psych-w",
+   "source": "Sylabus 2026/27 + wiedza podstawowa",
+   "title": "Psychologia: tematy egzaminu"
+  }
+ },
+ "meta": {
+  "checkedAt": "2026-10-21T21:00:00+02:00",
+  "news": []
+ }
+}
