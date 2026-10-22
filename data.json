@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-21",
+ "updated": "2026-10-22",
  "courses": {
   "etyka": {
    "link": "https://moodle2.e-wsb.pl/course/view.php?id=242156",
@@ -474,7 +474,939 @@
   }
  },
  "meta": {
-  "checkedAt": "2026-10-21T21:00:00+02:00",
+  "checkedAt": "2026-10-22T09:37:00+02:00",
   "news": []
+ },
+ "schedule": {
+  "days": [
+   [
+    "2026-10-19",
+    [
+     [
+      "8:00",
+      "10:25",
+      "WY",
+      "Studiowanie w WSB Merito",
+      ""
+     ],
+     [
+      "10:30",
+      "12:00",
+      "KW",
+      "Kompetencje przyszłości",
+      ""
+     ],
+     [
+      "12:15",
+      "13:45",
+      "WY",
+      "Podstawy prawa",
+      ""
+     ],
+     [
+      "14:15",
+      "15:45",
+      "WY",
+      "Psychologia komunikacji i marketingu",
+      ""
+     ]
+    ]
+   ],
+   [
+    "2026-10-20",
+    [
+     [
+      "8:00",
+      "10:25",
+      "CW",
+      "Przedsiębiorczość i współpraca w zespole",
+      "Jagiellońska, Jagiellońska 88, sala 002"
+     ]
+    ]
+   ],
+   [
+    "2026-10-21",
+    [
+     [
+      "9:40",
+      "12:05",
+      "WY",
+      "Elementy psychologii społecznej",
+      ""
+     ]
+    ]
+   ],
+   [
+    "2026-10-22",
+    [
+     [
+      "14:15",
+      "16:40",
+      "CW",
+      "Projekt semestralny I",
+      "Łabiszyńska, Łabiszyńska 25, sala 202"
+     ],
+     [
+      "16:50",
+      "19:15",
+      "CW",
+      "Psychologia komunikacji i marketingu",
+      "Łabiszyńska, Łabiszyńska 25, sala 205"
+     ]
+    ]
+   ],
+   [
+    "2026-10-26",
+    [
+     [
+      "10:30",
+      "12:00",
+      "KW",
+      "Etyka i społeczna odpowiedzialność biznesu",
+      ""
+     ],
+     [
+      "12:05",
+      "14:10",
+      "WY",
+      "Podstawy prawa",
+      ""
+     ],
+     [
+      "14:15",
+      "15:45",
+      "WY",
+      "Psychologia komunikacji i marketingu",
+      ""
+     ],
+     [
+      "17:45",
+      "19:15",
+      "KW",
+      "Kompetencje przyszłości",
+      ""
+     ],
+     [
+      "19:25",
+      "20:55",
+      "KW",
+      "Etyka i społeczna odpowiedzialność biznesu",
+      ""
+     ]
+    ]
+   ],
+   [
+    "2026-10-27",
+    [
+     [
+      "8:00",
+      "10:25",
+      "CW",
+      "Studiowanie w WSB Merito",
+      "Jagiellońska, Jagiellońska 88, sala 002"
+     ],
+     [
+      "10:30",
+      "12:00",
+      "LE",
+      "Język angielski - Extra przedmiot",
+      ""
+     ],
+     [
+      "12:15",
+      "14:40",
+      "CW",
+      "Praca projektowa",
+      "Jagiellońska, Jagiellońska 88, sala 008"
+     ],
+     [
+      "15:10",
+      "19:05",
+      "CW",
+      "Komunikacja interpersonalna",
+      "Jagiellońska, Jagiellońska 88, sala 002"
+     ]
+    ]
+   ],
+   [
+    "2026-11-02",
+    [
+     [
+      "8:00",
+      "10:25",
+      "WY",
+      "Elementy psychologii społecznej",
+      ""
+     ],
+     [
+      "10:30",
+      "12:00",
+      "KW",
+      "Kompetencje przyszłości",
+      ""
+     ],
+     [
+      "12:15",
+      "13:45",
+      "WY",
+      "Podstawy prawa",
+      ""
+     ],
+     [
+      "14:15",
+      "15:45",
+      "WY",
+      "Psychologia komunikacji i marketingu",
+      ""
+     ]
+    ]
+   ],
+   [
+    "2026-11-03",
+    [
+     [
+      "8:00",
+      "10:25",
+      "CW",
+      "Przedsiębiorczość i współpraca w zespole",
+      "Jagiellońska, Jagiellońska 88, sala 002"
+     ],
+     [
+      "10:30",
+      "12:00",
+      "LE",
+      "Język angielski - Extra przedmiot",
+      ""
+     ],
+     [
+      "12:15",
+      "15:25",
+      "CW",
+      "Komunikacja interpersonalna",
+      "Jagiellońska, Jagiellońska 88, sala 003"
+     ]
+    ]
+   ],
+   [
+    "2026-11-04",
+    [
+     [
+      "9:40",
+      "12:05",
+      "WY",
+      "Elementy psychologii społecznej",
+      ""
+     ]
+    ]
+   ],
+   [
+    "2026-11-05",
+    [
+     [
+      "14:15",
+      "16:40",
+      "CW",
+      "Projekt semestralny I",
+      "Łabiszyńska, Łabiszyńska 25, sala 203"
+     ],
+     [
+      "16:50",
+      "19:15",
+      "CW",
+      "Psychologia komunikacji i marketingu",
+      "Łabiszyńska, Łabiszyńska 25, sala 102"
+     ]
+    ]
+   ],
+   [
+    "2026-11-09",
+    [
+     [
+      "10:30",
+      "12:00",
+      "KW",
+      "Etyka i społeczna odpowiedzialność biznesu",
+      ""
+     ],
+     [
+      "12:15",
+      "13:45",
+      "WY",
+      "Podstawy prawa",
+      ""
+     ],
+     [
+      "14:15",
+      "15:45",
+      "WY",
+      "Psychologia komunikacji i marketingu",
+      ""
+     ]
+    ]
+   ],
+   [
+    "2026-11-10",
+    [
+     [
+      "10:30",
+      "12:00",
+      "LE",
+      "Język angielski - Extra przedmiot",
+      ""
+     ],
+     [
+      "12:15",
+      "14:40",
+      "CW",
+      "Praca projektowa",
+      "Jagiellońska, Jagiellońska 88, sala 002"
+     ],
+     [
+      "15:10",
+      "19:05",
+      "CW",
+      "Komunikacja interpersonalna",
+      "Jagiellońska, Jagiellońska 88, sala 007"
+     ]
+    ]
+   ],
+   [
+    "2026-11-16",
+    [
+     [
+      "8:00",
+      "10:25",
+      "WY",
+      "Elementy psychologii społecznej",
+      ""
+     ],
+     [
+      "10:30",
+      "12:00",
+      "KW",
+      "Kompetencje przyszłości",
+      ""
+     ],
+     [
+      "12:15",
+      "13:45",
+      "WY",
+      "Podstawy prawa",
+      ""
+     ],
+     [
+      "14:15",
+      "15:45",
+      "WY",
+      "Psychologia komunikacji i marketingu",
+      ""
+     ]
+    ]
+   ],
+   [
+    "2026-11-17",
+    [
+     [
+      "8:50",
+      "10:20",
+      "CW",
+      "Przedsiębiorczość i współpraca w zespole",
+      "Jagiellońska, Jagiellońska 88, sala 002"
+     ],
+     [
+      "10:30",
+      "12:00",
+      "LE",
+      "Język angielski - Extra przedmiot",
+      ""
+     ]
+    ]
+   ],
+   [
+    "2026-11-19",
+    [
+     [
+      "14:15",
+      "16:40",
+      "CW",
+      "Projekt semestralny I",
+      "Łabiszyńska, Łabiszyńska 25, sala 102"
+     ],
+     [
+      "16:50",
+      "18:20",
+      "CW",
+      "Psychologia komunikacji i marketingu",
+      "Łabiszyńska, Łabiszyńska 25, sala 102"
+     ]
+    ]
+   ],
+   [
+    "2026-11-23",
+    [
+     [
+      "10:30",
+      "12:00",
+      "KW",
+      "Etyka i społeczna odpowiedzialność biznesu",
+      ""
+     ],
+     [
+      "12:15",
+      "13:45",
+      "WY",
+      "Podstawy prawa",
+      ""
+     ],
+     [
+      "14:15",
+      "15:45",
+      "WY",
+      "Psychologia komunikacji i marketingu",
+      ""
+     ]
+    ]
+   ],
+   [
+    "2026-11-24",
+    [
+     [
+      "8:00",
+      "10:25",
+      "CW",
+      "Praca projektowa",
+      "Jagiellońska, Jagiellońska 88, sala 006"
+     ],
+     [
+      "10:30",
+      "12:00",
+      "LE",
+      "Język angielski - Extra przedmiot",
+      ""
+     ],
+     [
+      "12:15",
+      "14:40",
+      "CW",
+      "Praca projektowa",
+      "Jagiellońska, Jagiellońska 88, sala 002"
+     ],
+     [
+      "16:00",
+      "19:10",
+      "CW",
+      "Komunikacja interpersonalna",
+      "Jagiellońska, Jagiellońska 88, sala 007"
+     ]
+    ]
+   ],
+   [
+    "2026-11-30",
+    [
+     [
+      "8:50",
+      "9:35",
+      "WY",
+      "Podstawy prawa",
+      ""
+     ],
+     [
+      "10:30",
+      "12:00",
+      "KW",
+      "Kompetencje przyszłości",
+      ""
+     ],
+     [
+      "12:15",
+      "13:45",
+      "WY",
+      "Podstawy prawa",
+      ""
+     ],
+     [
+      "14:15",
+      "15:45",
+      "WY",
+      "Psychologia komunikacji i marketingu",
+      ""
+     ]
+    ]
+   ],
+   [
+    "2026-12-01",
+    [
+     [
+      "8:50",
+      "10:20",
+      "CW",
+      "Przedsiębiorczość i współpraca w zespole",
+      "Jagiellońska, Jagiellońska 88, sala 002"
+     ],
+     [
+      "10:30",
+      "12:00",
+      "LE",
+      "Język angielski - Extra przedmiot",
+      ""
+     ]
+    ]
+   ],
+   [
+    "2026-12-02",
+    [
+     [
+      "9:40",
+      "12:05",
+      "WY",
+      "Elementy psychologii społecznej",
+      ""
+     ]
+    ]
+   ],
+   [
+    "2026-12-03",
+    [
+     [
+      "14:15",
+      "17:25",
+      "CW",
+      "Projekt semestralny I",
+      "Łabiszyńska, Łabiszyńska 25, sala 205"
+     ],
+     [
+      "17:45",
+      "19:15",
+      "CW",
+      "Psychologia komunikacji i marketingu",
+      "Łabiszyńska, Łabiszyńska 25, sala 208"
+     ]
+    ]
+   ],
+   [
+    "2026-12-07",
+    [
+     [
+      "10:30",
+      "12:00",
+      "KW",
+      "Etyka i społeczna odpowiedzialność biznesu",
+      ""
+     ],
+     [
+      "12:15",
+      "13:45",
+      "WY",
+      "Podstawy prawa",
+      ""
+     ],
+     [
+      "14:15",
+      "15:45",
+      "WY",
+      "Psychologia komunikacji i marketingu",
+      ""
+     ],
+     [
+      "17:45",
+      "19:15",
+      "WY",
+      "Podstawy prawa",
+      ""
+     ]
+    ]
+   ],
+   [
+    "2026-12-08",
+    [
+     [
+      "10:30",
+      "12:00",
+      "LE",
+      "Język angielski - Extra przedmiot",
+      ""
+     ],
+     [
+      "12:15",
+      "14:40",
+      "CW",
+      "Praca projektowa",
+      "Jagiellońska, Jagiellońska 88, sala 002"
+     ],
+     [
+      "16:00",
+      "19:10",
+      "CW",
+      "Komunikacja interpersonalna",
+      "Jagiellońska, Jagiellońska 88, sala 007"
+     ]
+    ]
+   ],
+   [
+    "2026-12-14",
+    [
+     [
+      "8:00",
+      "10:25",
+      "WY",
+      "Elementy psychologii społecznej",
+      ""
+     ],
+     [
+      "10:30",
+      "12:00",
+      "KW",
+      "Kompetencje przyszłości",
+      ""
+     ],
+     [
+      "12:15",
+      "13:45",
+      "WY",
+      "Podstawy prawa",
+      ""
+     ],
+     [
+      "14:15",
+      "15:45",
+      "WY",
+      "Psychologia komunikacji i marketingu",
+      ""
+     ]
+    ]
+   ],
+   [
+    "2026-12-15",
+    [
+     [
+      "8:50",
+      "10:20",
+      "CW",
+      "Przedsiębiorczość i współpraca w zespole",
+      "Jagiellońska, Jagiellońska 88, sala 002"
+     ],
+     [
+      "10:30",
+      "12:00",
+      "LE",
+      "Język angielski - Extra przedmiot",
+      ""
+     ]
+    ]
+   ],
+   [
+    "2026-12-17",
+    [
+     [
+      "14:15",
+      "17:25",
+      "CW",
+      "Projekt semestralny I",
+      "Łabiszyńska, Łabiszyńska 25, sala 202"
+     ],
+     [
+      "17:45",
+      "19:15",
+      "CW",
+      "Psychologia komunikacji i marketingu",
+      "Łabiszyńska, Łabiszyńska 25, sala 208"
+     ]
+    ]
+   ],
+   [
+    "2027-01-11",
+    [
+     [
+      "8:00",
+      "10:25",
+      "WY",
+      "Elementy psychologii społecznej",
+      ""
+     ],
+     [
+      "12:15",
+      "13:45",
+      "WY",
+      "Podstawy prawa",
+      ""
+     ],
+     [
+      "14:15",
+      "15:45",
+      "WY",
+      "Psychologia komunikacji i marketingu",
+      ""
+     ],
+     [
+      "17:45",
+      "19:15",
+      "WY",
+      "Psychologia komunikacji i marketingu",
+      ""
+     ]
+    ]
+   ],
+   [
+    "2027-01-12",
+    [
+     [
+      "8:00",
+      "9:30",
+      "CW",
+      "Przedsiębiorczość i współpraca w zespole",
+      "Jagiellońska, Jagiellońska 88, sala 002"
+     ],
+     [
+      "10:30",
+      "12:00",
+      "LE",
+      "Język angielski - Extra przedmiot",
+      ""
+     ]
+    ]
+   ],
+   [
+    "2027-01-14",
+    [
+     [
+      "14:15",
+      "17:25",
+      "CW",
+      "Projekt semestralny I",
+      "Łabiszyńska, Łabiszyńska 25, sala 203"
+     ],
+     [
+      "17:45",
+      "20:10",
+      "CW",
+      "Psychologia komunikacji i marketingu",
+      "Łabiszyńska, Łabiszyńska 25, sala 203"
+     ]
+    ]
+   ],
+   [
+    "2027-01-18",
+    [
+     [
+      "8:00",
+      "10:25",
+      "WY",
+      "Elementy psychologii społecznej",
+      ""
+     ],
+     [
+      "10:30",
+      "12:00",
+      "KW",
+      "Etyka i społeczna odpowiedzialność biznesu",
+      ""
+     ],
+     [
+      "12:15",
+      "13:45",
+      "WY",
+      "Podstawy prawa",
+      ""
+     ],
+     [
+      "14:15",
+      "15:45",
+      "WY",
+      "Psychologia komunikacji i marketingu",
+      ""
+     ]
+    ]
+   ],
+   [
+    "2027-01-19",
+    [
+     [
+      "10:30",
+      "12:00",
+      "LE",
+      "Język angielski - Extra przedmiot",
+      ""
+     ],
+     [
+      "16:00",
+      "19:10",
+      "CW",
+      "Komunikacja interpersonalna",
+      "Jagiellońska, Jagiellońska 88, sala 005"
+     ]
+    ]
+   ],
+   [
+    "2027-01-25",
+    [
+     [
+      "8:00",
+      "10:25",
+      "WY",
+      "Elementy psychologii społecznej",
+      ""
+     ],
+     [
+      "10:30",
+      "11:15",
+      "KW",
+      "Kompetencje przyszłości",
+      ""
+     ],
+     [
+      "11:25",
+      "12:10",
+      "KW",
+      "Etyka i społeczna odpowiedzialność biznesu",
+      ""
+     ],
+     [
+      "12:15",
+      "13:45",
+      "WY",
+      "Podstawy prawa",
+      ""
+     ],
+     [
+      "14:15",
+      "15:45",
+      "WY",
+      "Psychologia komunikacji i marketingu",
+      ""
+     ],
+     [
+      "17:45",
+      "19:15",
+      "WY",
+      "Psychologia komunikacji i marketingu",
+      ""
+     ]
+    ]
+   ],
+   [
+    "2027-01-26",
+    [
+     [
+      "8:50",
+      "9:35",
+      "CW",
+      "Przedsiębiorczość i współpraca w zespole",
+      "Jagiellońska, Jagiellońska 88, sala 002"
+     ],
+     [
+      "10:30",
+      "12:00",
+      "LE",
+      "Język angielski - Extra przedmiot",
+      ""
+     ]
+    ]
+   ],
+   [
+    "2027-02-01",
+    [
+     [
+      "8:00",
+      "10:25",
+      "WY",
+      "Elementy psychologii społecznej",
+      ""
+     ],
+     [
+      "10:30",
+      "12:00",
+      "KW",
+      "Etyka i społeczna odpowiedzialność biznesu",
+      ""
+     ],
+     [
+      "12:15",
+      "13:45",
+      "WY",
+      "Podstawy prawa",
+      ""
+     ],
+     [
+      "14:15",
+      "15:45",
+      "WY",
+      "Psychologia komunikacji i marketingu",
+      ""
+     ],
+     [
+      "17:45",
+      "19:15",
+      "KW",
+      "Kompetencje przyszłości",
+      ""
+     ]
+    ]
+   ],
+   [
+    "2027-02-02",
+    [
+     [
+      "8:50",
+      "11:50",
+      "LE",
+      "Język angielski - Extra przedmiot",
+      ""
+     ],
+     [
+      "15:10",
+      "18:20",
+      "CW",
+      "Komunikacja interpersonalna",
+      "Jagiellońska, Jagiellońska 88, sala 005"
+     ]
+    ]
+   ]
+  ],
+  "events": [
+   [
+    "2026-10-23",
+    "Wpisowe"
+   ],
+   [
+    "2026-10-28",
+    "Czesne"
+   ],
+   [
+    "2026-10-31",
+    "Czesne"
+   ],
+   [
+    "2026-11-30",
+    "Czesne"
+   ],
+   [
+    "2026-12-21",
+    "Przerwa świąteczna (21.12–5.01)"
+   ],
+   [
+    "2026-12-31",
+    "Czesne"
+   ],
+   [
+    "2027-01-31",
+    "Czesne"
+   ],
+   [
+    "2027-02-08",
+    "Sesja zwykła (8–12.02)"
+   ],
+   [
+    "2027-02-22",
+    "Sesja poprawkowa (22–26.02)"
+   ],
+   [
+    "2027-02-28",
+    "Czesne"
+   ],
+   [
+    "2027-03-01",
+    "Sesja przedłużona"
+   ]
+  ]
  }
 }
