@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-22",
+ "updated": "2026-10-25",
  "courses": {
   "etyka": {
    "link": "https://moodle2.e-wsb.pl/course/view.php?id=242156",
@@ -265,6 +265,9 @@
  },
  "cards": {
   "przeds": {
+   "course": "przeds",
+   "title": "Przedsiębiorczość: projekt",
+   "source": "Sylabus 2026/27",
    "cards": [
     {
      "a": "Projekt zespołowy prezentowany przed grupą, maks. 100 pkt. Próg zaliczenia: 51 pkt.",
@@ -322,12 +325,12 @@
      ],
      "q": "Co prowadząca radzi zrobić jak najszybciej?"
     }
-   ],
-   "course": "przeds",
-   "source": "Sylabus 2026/27",
-   "title": "Przedsiębiorczość: projekt"
+   ]
   },
   "psych-w": {
+   "course": "psych-w",
+   "title": "Psychologia: tematy egzaminu",
+   "source": "Sylabus 2026/27 + wiedza podstawowa",
    "cards": [
     {
      "a": "Egzamin pisemny, maks. 100 pkt. Ocena 3,0 od 51%, 5,0 od 91%.",
@@ -467,14 +470,11 @@
      ],
      "q": "Jak budować spójny wizerunek marki?"
     }
-   ],
-   "course": "psych-w",
-   "source": "Sylabus 2026/27 + wiedza podstawowa",
-   "title": "Psychologia: tematy egzaminu"
+   ]
   }
  },
  "meta": {
-  "checkedAt": "2026-10-22T09:37:00+02:00",
+  "checkedAt": "2026-10-25T09:33:00+01:00",
   "news": []
  },
  "schedule": {
@@ -1221,6 +1221,13 @@
     "2027-01-19",
     [
      [
+      "8:00",
+      "10:15",
+      "CW",
+      "Komunikacja interpersonalna",
+      "Jagiellońska, Jagiellońska 88, sala 005"
+     ],
+     [
       "10:30",
       "12:00",
       "LE",
@@ -1228,8 +1235,8 @@
       ""
      ],
      [
-      "16:00",
-      "19:10",
+      "12:15",
+      "13:00",
       "CW",
       "Komunikacja interpersonalna",
       "Jagiellońska, Jagiellońska 88, sala 005"
@@ -1406,6 +1413,10 @@
    [
     "2027-03-01",
     "Sesja przedłużona"
+   ],
+   [
+    "2027-03-31",
+    "Czesne"
    ]
   ]
  }
