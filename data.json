@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-25",
+ "updated": "2026-11-02",
  "courses": {
   "etyka": {
    "link": "https://moodle2.e-wsb.pl/course/view.php?id=242156",
@@ -22,6 +22,12 @@
      "done": false,
      "src": "moodle:13562006",
      "t": "Praca zaliczeniowa"
+    },
+    {
+     "d": "2026-09-21",
+     "done": false,
+     "src": "moodle:13561997",
+     "t": "Prace studenckie"
     }
    ]
   },
@@ -34,6 +40,12 @@
      "done": true,
      "src": "moodle:13350743",
      "t": "Praca zaliczeniowa"
+    },
+    {
+     "d": "2026-10-26",
+     "done": true,
+     "src": "moodle:13350734",
+     "t": "Slajd - streszczenie raportu"
     }
    ]
   },
@@ -473,10 +485,6 @@
    ]
   }
  },
- "meta": {
-  "checkedAt": "2026-10-25T09:33:00+01:00",
-  "news": []
- },
  "schedule": {
   "days": [
    [
@@ -609,8 +617,8 @@
       "10:30",
       "12:00",
       "LE",
-      "Język angielski - Extra przedmiot",
-      ""
+      "Język angielski",
+      "Jagiellońska, Jagiellońska 88, sala 002"
      ],
      [
       "12:15",
@@ -625,6 +633,18 @@
       "CW",
       "Komunikacja interpersonalna",
       "Jagiellońska, Jagiellońska 88, sala 002"
+     ]
+    ]
+   ],
+   [
+    "2026-10-30",
+    [
+     [
+      "15:00",
+      "18:00",
+      "",
+      "Bezpłatne warsztaty „We Are All Juniors”",
+      ""
      ]
     ]
    ],
@@ -675,8 +695,8 @@
       "10:30",
       "12:00",
       "LE",
-      "Język angielski - Extra przedmiot",
-      ""
+      "Język angielski",
+      "Jagiellońska, Jagiellońska 88, sala 006"
      ],
      [
       "12:15",
@@ -684,6 +704,13 @@
       "CW",
       "Komunikacja interpersonalna",
       "Jagiellońska, Jagiellońska 88, sala 003"
+     ],
+     [
+      "16:00",
+      "19:00",
+      "LE",
+      "Język angielski",
+      "Jagiellońska, Jagiellońska 88, sala 002"
      ]
     ]
    ],
@@ -741,6 +768,20 @@
       "WY",
       "Psychologia komunikacji i marketingu",
       ""
+     ],
+     [
+      "16:00",
+      "17:30",
+      "WY",
+      "Psychologia komunikacji i marketingu",
+      ""
+     ],
+     [
+      "17:45",
+      "20:10",
+      "WY",
+      "Czy modele AI mogą być etyczne? O wyzwaniach odpowiedzialnego rozwoju nowych technologii",
+      ""
      ]
     ]
    ],
@@ -751,8 +792,8 @@
       "10:30",
       "12:00",
       "LE",
-      "Język angielski - Extra przedmiot",
-      ""
+      "Język angielski",
+      "Jagiellońska, Jagiellońska 88, sala 002"
      ],
      [
       "12:15",
@@ -817,8 +858,8 @@
       "10:30",
       "12:00",
       "LE",
-      "Język angielski - Extra przedmiot",
-      ""
+      "Język angielski",
+      "Jagiellońska, Jagiellońska 88, sala 006"
      ]
     ]
    ],
@@ -864,6 +905,13 @@
       "WY",
       "Psychologia komunikacji i marketingu",
       ""
+     ],
+     [
+      "17:45",
+      "20:10",
+      "WY",
+      "Czy modele AI mogą być etyczne? O wyzwaniach odpowiedzialnego rozwoju nowych technologii",
+      ""
      ]
     ]
    ],
@@ -881,8 +929,8 @@
       "10:30",
       "12:00",
       "LE",
-      "Język angielski - Extra przedmiot",
-      ""
+      "Język angielski",
+      "Jagiellońska, Jagiellońska 88, sala 002"
      ],
      [
       "12:15",
@@ -947,8 +995,8 @@
       "10:30",
       "12:00",
       "LE",
-      "Język angielski - Extra przedmiot",
-      ""
+      "Język angielski",
+      "Jagiellońska, Jagiellońska 88, sala 006"
      ]
     ]
    ],
@@ -1013,6 +1061,13 @@
       "WY",
       "Podstawy prawa",
       ""
+     ],
+     [
+      "17:45",
+      "20:10",
+      "WY",
+      "Czy modele AI mogą być etyczne? O wyzwaniach odpowiedzialnego rozwoju nowych technologii",
+      ""
      ]
     ]
    ],
@@ -1023,8 +1078,8 @@
       "10:30",
       "12:00",
       "LE",
-      "Język angielski - Extra przedmiot",
-      ""
+      "Język angielski",
+      "Jagiellońska, Jagiellońska 88, sala 002"
      ],
      [
       "12:15",
@@ -1089,8 +1144,8 @@
       "10:30",
       "12:00",
       "LE",
-      "Język angielski - Extra przedmiot",
-      ""
+      "Język angielski",
+      "Jagiellońska, Jagiellońska 88, sala 006"
      ]
     ]
    ],
@@ -1143,6 +1198,13 @@
       "WY",
       "Psychologia komunikacji i marketingu",
       ""
+     ],
+     [
+      "17:45",
+      "20:10",
+      "WY",
+      "Czy modele AI mogą być etyczne? O wyzwaniach odpowiedzialnego rozwoju nowych technologii",
+      ""
      ]
     ]
    ],
@@ -1160,8 +1222,8 @@
       "10:30",
       "12:00",
       "LE",
-      "Język angielski - Extra przedmiot",
-      ""
+      "Język angielski",
+      "Jagiellońska, Jagiellońska 88, sala 006"
      ]
     ]
    ],
@@ -1231,8 +1293,8 @@
       "10:30",
       "12:00",
       "LE",
-      "Język angielski - Extra przedmiot",
-      ""
+      "Język angielski",
+      "Jagiellońska, Jagiellońska 88, sala 006"
      ],
      [
       "12:15",
@@ -1287,6 +1349,13 @@
       "WY",
       "Psychologia komunikacji i marketingu",
       ""
+     ],
+     [
+      "17:45",
+      "20:10",
+      "WY",
+      "Czy modele AI mogą być etyczne? O wyzwaniach odpowiedzialnego rozwoju nowych technologii",
+      ""
      ]
     ]
    ],
@@ -1304,8 +1373,8 @@
       "10:30",
       "12:00",
       "LE",
-      "Język angielski - Extra przedmiot",
-      ""
+      "Język angielski",
+      "Jagiellońska, Jagiellońska 88, sala 006"
      ]
     ]
    ],
@@ -1354,10 +1423,10 @@
     [
      [
       "8:50",
-      "11:50",
+      "12:00",
       "LE",
-      "Język angielski - Extra przedmiot",
-      ""
+      "Język angielski",
+      "Jagiellońska, Jagiellońska 88, sala 006"
      ],
      [
       "15:10",
@@ -1419,5 +1488,9 @@
     "Czesne"
    ]
   ]
+ },
+ "meta": {
+  "checkedAt": "2026-11-02T01:50:18+01:00",
+  "news": []
  }
 }
